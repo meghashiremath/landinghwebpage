@@ -7,7 +7,7 @@ Design and Implementation
 Install Typescript, Shadcn UI and Tailwind CSS
 ## Styling: Use Tailwind CSS and ShadCn UI components.
  Install the necessary packages mentioned in the package.json
-## Hosting: Deploy the landing page on Vercel or Cloudflare Pages.
+
 
 
 
@@ -32,7 +32,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 
 
-
+## Hosting: Deploy the landing page on Vercel 
 ## Deployed on Vercel
  https://landinghwebpage-36057qxuz-meghashiremaths-projects.vercel.app/
 
